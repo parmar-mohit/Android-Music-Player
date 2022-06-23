@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="select_music">Select Music to Play</string>
+</resources>
